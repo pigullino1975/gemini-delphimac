@@ -1,0 +1,49 @@
+# Delphi / RAD Studio
+
+# History
+__history/
+
+# Object files
+*.o
+*.obj
+
+# Resource files
+*.res
+
+# Map files
+*.map
+
+# Executables and libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.bpl
+
+# Package files
+*.dcp
+*.dcu
+
+# Output directories
+Debug/
+Release/
+Win32/
+Win64/
+Android/
+iOSDevice32/
+iOSDevice64/
+iOSSimulator/
+OSX32/
+OSX64/
+Linux64/
+
+# User-specific files
+*.local
+*.identcache
+*.todo
+*.~*
+*.dsk
+
+# RAD Studio project files that should not be committed
+*.groupproj.local
+*.dproj.local
